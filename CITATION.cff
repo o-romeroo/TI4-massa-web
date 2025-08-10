@@ -1,0 +1,30 @@
+cff-version: 1.0.1
+message: "Please cite this software using these metadata."
+title: "MASSA"
+authors:
+  - family-names: Galvão Souza Machado
+    given-names: Douglas
+  - family-names: Ramos Ferreira
+    given-names: Gabriel
+  - family-names: Romero Sales
+    given-names: João Vitor
+  - family-names: Silva Braga
+    given-names: João Pedro
+  - family-names: Randazzo
+    given-names: Lucas
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro de Souza
+    given-names: Joana Gabriela
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: da Silva
+    given-names: Soraia Lúcia
+keywords:
+  - QSAR/QSPR
+  - Molecular Sampling
+  - Data Splitting Algorithm
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/PMG-ES-2024-2-TI4-3170100-massa/
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: 2024-12-10
